@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishita-Kulhari
 - 👀 I’m interested in coding,singing,dancing.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for students to teach dance.
 - 📫 How to reach me rishitakuhari13@gmail.com
 
 <!---
